@@ -93,4 +93,4 @@ Buka file `tugas_UTS.ipynb` dan jalankan cell secara berurutan.
 * **Nama:** Ilham Haikal Anwar
 * **NIM:** 241011401661
 * **Kelas:** 03TPLE05 - Teknik Informatika (Universitas Pamulang)
-* **GitHub:** [@username_github_kamu](https://github.com/username_github_kamu)
+* **GitHub:** [@username_github_kamu](https://github.com/ilhamhaikalanwar)
